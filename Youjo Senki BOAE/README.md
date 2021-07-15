@@ -11,8 +11,9 @@ Victoria II would be the best candidate to achieve this as we wouldn't have to c
 or dynamic family systems of Crusader Kings.
 
 I hope to those who read this and play this mod will enjoy.
------------------------------------------------------------------
 
 Changelog:
-  0.2 "Fjord"
+-----------------------------------------------------------------
+
+  * 0.2 "Fjord":
   More dynamic music that plays when certain conditions are fulfilled. Most of which are determined if at war.
