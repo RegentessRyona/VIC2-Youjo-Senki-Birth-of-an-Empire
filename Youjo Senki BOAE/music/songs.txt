@@ -1,0 +1,170 @@
+song = {
+	name = "thecoronation_titletheme.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "mysoul.mp3"
+	chance = { factor = 1}
+}
+song = {
+	name = "thiscursedworldofconstantwarfare.mp3"
+	chance = {
+	modifier = {
+			factor = 1
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+				badboy = 0.8
+			}
+		}
+		}
+}
+song = {
+	name = "theindividualist.mp3"
+	chance = {
+		modifier = {
+			factor = 1
+			total_amount_of_divisions = 50
+		}
+	}
+}
+song = {
+	name = "workforsalary.mp3"
+	chance = {
+		modifier = {
+			factor = 1
+			great_wars_enabled = yes
+		}
+	}
+}
+song = {
+	name = "imperialarmymarch.mp3"
+	chance = {
+		modifier = { 
+				factor = 1
+				AND = {
+					has_recently_lost_war = no
+					is_greater_power = yes
+				}
+		}
+	}
+}
+song = {
+	name = "securetherear.mp3"
+	chance = { 
+		factor = 1 
+		modifier = {
+			war = no
+		}
+	}
+}
+song = {
+	name = "borrowedcat.mp3"
+	chance = {
+		factor = 1
+		modifier = {
+			war = no
+		}
+	}
+}
+song = {
+	name = "howdidthishappen.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "unbelievablefate.mp3"
+	chance = {
+		factor = 1 
+	}
+}
+song = {
+	name = "victory.mp3"
+	chance = {
+		modifier = { 
+			factor = 1
+			AND = {
+				has_recently_lost_war = no
+				is_greater_power = yes
+			}
+		}
+	}
+}
+song = {
+	name = "feast.mp3"
+	chance = {
+		modifier = {
+			factor = 1 
+			war = no
+		}
+	}
+}
+song = {
+	name = "adayatthecourt.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "buckinghampalace.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "countryside.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "deathofprincealbert.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "europeanno1850.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "forgodandqueen.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "handelthis.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "inventions.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "newworldanthem.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "poverty.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "queensscherzo.mp3"
+	chance = { factor = 1 }
+}
+
+song = {
+	name = "russia1917.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "theroyalmarch.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "wehaveindependence.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "winter.mp3"
+	chance = { factor = 1 }
+}
