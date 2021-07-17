@@ -15,5 +15,8 @@ I hope to those who read this and play this mod will enjoy.
 Changelog:
 -----------------------------------------------------------------
 
+  * 0.3:
+  Resurrected Dacia and Turkmen into existence. Dacia under sphere of Magna Rumeli and Turkmen are uncivilized.
+
   * 0.2 "Fjord":
   More dynamic music that plays when certain conditions are fulfilled. Most of which are determined if at war.
