@@ -1,4 +1,4 @@
-capital = 354
+capital = 1151 #Mecca
 primary_culture = mashriqi
 culture = bedouin
 culture = misri
@@ -8,8 +8,8 @@ government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.6
-civilized = yes
 
+oob = "ARA_oob.txt"
 
 # Political reforms
 slavery = no_slavery
@@ -35,8 +35,8 @@ upper_house = {
 	fascist = 0
 	liberal = 25
 	conservative = 60
-	reactionary = 10
-	anarcho_liberal = 5
+	reactionary = 15
+	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
