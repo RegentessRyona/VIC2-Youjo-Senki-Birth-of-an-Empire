@@ -8,7 +8,9 @@ This Victoria II mod at the time of it's creation was already well aware of VIct
 However we had decided to make this mod out of being fans of the show Youjo Senki and fans of Paradox Interactive games.
 Since Youjo Senki to my knowledge of the lore barely has any information prior to when Tanya was born, we felt like of all games
 Victoria II would be the best candidate to achieve this as we wouldn't have to come up with as much crazy lore for EUIV's timeline
-or dynamic family systems of Crusader Kings.
+or dynamic family systems of Crusader Kings. 
+
+So when this mod officially becomes finished, it will be our interpretation of the lore that led up to Tanya's birth and afterwards.
 
 I hope to those who read this and play this mod will enjoy.
 
