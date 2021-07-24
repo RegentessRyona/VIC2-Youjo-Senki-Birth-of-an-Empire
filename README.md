@@ -10,6 +10,8 @@ Since Youjo Senki to my knowledge of the lore barely has any information prior t
 Victoria II would be the best candidate to achieve this as we wouldn't have to come up with as much crazy lore for EUIV's timeline
 or dynamic family systems of Crusader Kings. 
 
+Currently right now this mod is still in the works with it currently being a slightly modified Vanilla experience.
+
 So when this mod officially becomes finished, it will be our interpretation of the lore that led up to Tanya's birth and afterwards.
 
 I hope to those who read this and play this mod will enjoy.
