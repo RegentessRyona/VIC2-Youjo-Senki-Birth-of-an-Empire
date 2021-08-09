@@ -14,5 +14,13 @@ FRA_socialist_3;Alliance de Citoyens Socialistes;;;;;;;;;x
 FRA_fascist;L'Union Nationaliste et Imperialiste;;;;;;;;;x
 FRA_anarcho_liberal;Federation des Anarchistes Sociaux;;;;;;;;;x
 FRA_communist;L'Assemblee Communiste;;;;;;;;;x
+GRA_conservative;Council of Nobles;x;;;;
+GRA_anarcho_liberal;People's Party;x;;;;
+GRA_liberal;Liberal Counicl;x;;;;
+GRA_liberal_2;People's Liberty Party;x;;;;
+GRA_reactionary;King's Inner Cirlce;x;;;;
+GRA_socialist;People's Socialist Party;x;;;;
+GRA_communist;Liberation Front;x;;;;
+GRA_fascist";Nationalist Party;x;;;;
 RUS_conservative;Traditionnaya Vecherinka;;;;;;;;;x
 USA_liberal;Unified Council;;;;;;;;;x
