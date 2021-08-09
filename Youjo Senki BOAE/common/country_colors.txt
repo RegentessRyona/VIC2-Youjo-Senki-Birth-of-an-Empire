@@ -1037,3 +1037,10 @@ TRA = {
     color2= { 122 182 242 }
     color3= { 255 255 255  }
 }
+
+# Gran Columbia
+GRA = {
+    color1= { 128  0  32  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
