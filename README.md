@@ -19,6 +19,9 @@ I hope to those who read this and play this mod will enjoy.
 Changelog:
 -----------------------------------------------------------------
 
+  * 0.4 "Gran Reino": 
+  The new country of Gran Reino is now in the mod! Alongside some music changes and localisation.
+
   * 0.3:
   Resurrected Dacia and Turkmen into existence. Dacia under sphere of Magna Rumeli and Turkmen are uncivilized.
 
