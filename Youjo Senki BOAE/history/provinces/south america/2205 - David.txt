@@ -1,0 +1,6 @@
+owner = GRA
+controller = GRA
+add_core = GRA
+add_core = PNM
+trade_goods = coffee
+life_rating = 30
