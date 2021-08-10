@@ -1,5 +1,5 @@
 # Youjo-Senki-BOAE
-Youjo Senki: Birth of an Empire Ver. 0.4 "Fjord".
+Youjo Senki: Birth of an Empire Ver. 0.4 "Gran Reino".
 
 Commentary from Regentess Ryona, one of the mod makers:
 ---------------------------------------------------------------
